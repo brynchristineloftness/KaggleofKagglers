@@ -1,2 +1,12 @@
 # KaggleofKagglers
-Repository for Bryn Loftness, Blake Kohlbrecher, Clayton Johnson, Matthew Behnke, and Stephen Marshall (Kaggle of Kagglers Team)
+-----------------------------------------------------------
+*Team Members*
+- Blake Kohlbrecher
+- Bryn Loftness
+- Clayton Johnson
+- Matthew Behnke
+- Stephen Marshall
+- Allen Harper
+
+*Purpose*
+- To try to do some fun Kaggle stuff
