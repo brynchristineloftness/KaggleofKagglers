@@ -3,7 +3,7 @@
 *Team Members (with kaggle name)*
 - Blake Kohlbrecher (blakekohlbrecher)
 - Bryn Loftness (brynloftness)
-- Clayton Johnson (claytonjohnson)
+- Clayton Johnson (claytonjohnson) (test push!)
 - Matthew Behnke
 - Stephen Marshall (sjmarshall)
 - Allen Harper (allenharper)
