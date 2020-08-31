@@ -4,7 +4,7 @@
 - Blake Kohlbrecher (blakekohlbrecher)
 - Bryn Loftness (brynloftness)
 - Clayton Johnson (claytonjohnson)
-- Matthew Behnke
+- Matthew Behnke (mattbehnke)
 - Stephen Marshall (sjmarshall)
 - Allen Harper (allenharper)
 
