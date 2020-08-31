@@ -1,12 +1,12 @@
 # KaggleofKagglers
 
-*Team Members*
-- Blake Kohlbrecher
-- Bryn Loftness
-- Clayton Johnson
+*Team Members (with kaggle name)*
+- Blake Kohlbrecher (blakekohlbrecher)
+- Bryn Loftness (brynloftness)
+- Clayton Johnson (claytonjohnson)
 - Matthew Behnke
-- Stephen Marshall
-- Allen Harper
+- Stephen Marshall (sjmarshall)
+- Allen Harper (allenharper)
 
 -----------------------------------------------------------
 
